@@ -135,7 +135,7 @@ Publish the website in the given URL.
 
 ## OUTPUT:
 ![output](calc.png)
-![output](calc1.png)
+![output](calculator.png)
 ## Result:
 
 The program for designing a simple calculator using javascript is executed successfully
